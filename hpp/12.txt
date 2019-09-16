@@ -1,0 +1,2 @@
+1、找到tomcat的主目录，进入conf文件夹，找到server.xml文件，找到protocol="HTTP/1.1"，修改端口号
+2、一个servlet容器，处理servlet;功能主要是封装了底层的网络通信，让容器能够访问到底层的数据
